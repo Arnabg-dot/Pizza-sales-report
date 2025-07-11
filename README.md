@@ -66,3 +66,4 @@ Run the SQL queries on your pizza sales database.
 Import the output or the table directly into Power BI.
 Load visualizations and apply DAX where needed.
 Explore insights and share interactive dashboards.
+Example: [Dashboard Preview]:https://github.com/Arnabg-dot/Pizza-sales-report/blob/main/Pizza%20orders%20Dashboard.PNG
